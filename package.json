@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/daniel-oliv3/sistema-de-login_node-react/issues"
   },
-  "homepage": "https://github.com/daniel-oliv3/sistema-de-login_node-react#readme"
+  "homepage": "https://github.com/daniel-oliv3/sistema-de-login_node-react#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }

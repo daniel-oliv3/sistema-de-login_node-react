@@ -9,7 +9,7 @@ SEQUENCIA PARA CRIAR O PROJETO
 Cria o arquivo package
 ### npm init
 
-Gerencia as reuisições, rotas e URLs, entre outra funcionalidades
+Gerencia as requisições, rotas e URLs, entre outra funcionalidades
 ### npm install express
 
 Instalar a dependência de forma global, "-g" significa globalmente. Executar o comando através do prompt de comando, executar somente se nunca instalou a dependêcia na maquina, após instalar, reiniciar a maquina.
