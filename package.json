@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/daniel-oliv3/sistema-de-login_node-react#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "express": "^4.17.2"
   },
   "devDependencies": {

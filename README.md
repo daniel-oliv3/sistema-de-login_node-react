@@ -20,3 +20,9 @@ Instalar a dependência como desenvolvedor para reiniciar o servidor sempre que 
 
 Rodar o projeto uando o nodemon
 ### nodemon app.js
+
+Instalar o módulo para criptografar a senha
+### npm install --save bcryptjs
+
+instalar a dependencia para JWT
+### npm install --save jsonwebtoken
