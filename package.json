@@ -1,0 +1,20 @@
+{
+  "name": "sistema-de-login_node-react",
+  "version": "1.0.0",
+  "description": "COMO RODAR O PROJETO BAIXADO\r Instalar todas as dependencias indicada pelo arquivo package.json\r ### npm install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-oliv3/sistema-de-login_node-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-oliv3/sistema-de-login_node-react/issues"
+  },
+  "homepage": "https://github.com/daniel-oliv3/sistema-de-login_node-react#readme"
+}
