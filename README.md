@@ -17,3 +17,6 @@ Instalar a dependência de forma global, "-g" significa globalmente. Executar o 
 
 Instalar a dependência como desenvolvedor para reiniciar o servidor sempre que houve alteração no código fonte.
 ### npm install --save-dev nodemon
+
+Rodar o projeto uando o nodemon
+### nodemon app.js
