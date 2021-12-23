@@ -19,5 +19,8 @@
   "homepage": "https://github.com/daniel-oliv3/sistema-de-login_node-react#readme",
   "dependencies": {
     "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
